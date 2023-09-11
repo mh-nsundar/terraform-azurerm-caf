@@ -1,5 +1,5 @@
 # See http://pre-commit.com for more information
-# See http://pre-commit.com/hooks.html for more hooks
+## See http://pre-commit.com/hooks.html for more hooks
 repos:
   - repo: https://github.com/antonbabenko/pre-commit-terraform
     rev: v1.74.1
